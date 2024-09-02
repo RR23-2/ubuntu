@@ -1,0 +1,30 @@
+{
+  "prefs": {
+    "TelemetryEnabled": "true",
+    "SystemTheme": "true",
+    "NotebookFontSize": "14.0",
+    "FontSize": "15.0",
+    "SameLinePromptBlockState": "\"DoNotShow\"",
+    "InputMode": "\"PinnedToBottom\"",
+    "AutosuggestionAcceptedCount": "2",
+    "CrashReportingEnabled": "true",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "SelectedSystemThemes": "{\"light\":\"Light\",\"dark\":{\"Custom\":{\"name\":\"Catppuccin-hanni\",\"path\":\"/home/yan/.local/share/warp-terminal/themes/catppuccin-hanni.yml\"}}}",
+    "AgentModeOnboardingBlockShown": "true",
+    "UserDefaultShellUnsupportedBannerState": "\"Dismissed\"",
+    "MatchNotebookToMonospaceFontSize": "true",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "ChangelogVersions": "{\"v0.2024.08.20.08.02.stable_00\":true,\"v0.2024.08.27.08.02.stable_02\":true}",
+    "ShouldDimInactivePanes": "true",
+    "Spacing": "\"Normal\"",
+    "OverrideOpacity": "100",
+    "Theme": "{\"Custom\":{\"name\":\"Catppuccin-mocha\",\"path\":\"/home/yan/.local/share/warp-terminal/themes/catppuccin-mocha.yml\"}}",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"BlockAction\"},{\"Action\":\"SplitPane\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"ThemePicker\"},{\"Action\":\"OpenWarpDrive\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"CommandPalette\"}]",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":2,\"next_refresh_time\":\"2024-09-19T01:32:10.768440Z\",\"is_unlimited\":false}",
+    "OpenWindowsAtCustomSize": "false",
+    "ExperimentId": "8fc33a8f-b106-4a5f-aefc-bc4d73ebdf97",
+    "FontName": "\"0xProto Nerd Font\"",
+    "NewWindowsNumColumns": "100",
+    "AIRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":2,\"next_refresh_time\":\"2024-09-19T01:32:10.768440Z\",\"is_unlimited\":false}"
+  }
+}

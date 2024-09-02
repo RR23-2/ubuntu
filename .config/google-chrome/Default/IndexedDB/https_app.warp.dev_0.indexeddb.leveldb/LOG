@@ -1,0 +1,3 @@
+2024/08/29-16:38:06.284 123d1 Creating DB /home/yan/.config/google-chrome/Default/IndexedDB/https_app.warp.dev_0.indexeddb.leveldb since it was missing.
+2024/08/29-16:38:06.286 123d1 Reusing MANIFEST /home/yan/.config/google-chrome/Default/IndexedDB/https_app.warp.dev_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/29-16:38:06.290 123d3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

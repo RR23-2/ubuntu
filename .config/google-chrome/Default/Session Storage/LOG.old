@@ -1,0 +1,15 @@
+2024/09/01-00:12:29.788 4 Reusing MANIFEST /home/yan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/09/01-00:12:29.789 4 Recovering log #37
+2024/09/01-00:12:29.790 4 Reusing old log /home/yan/.config/google-chrome/Default/Session Storage/000037.log 
+2024/09/01-00:12:39.875 4 Level-0 table #41: started
+2024/09/01-00:12:39.876 4 Level-0 table #41: 20099 bytes OK
+2024/09/01-00:12:39.877 4 Delete type=0 #37
+2024/09/01-00:12:39.877 4 Compacting 4@0 + 1@1 files
+2024/09/01-00:12:39.881 4 Generated table #42@0: 1847 keys, 35186 bytes
+2024/09/01-00:12:39.881 4 Compacted 4@0 + 1@1 files => 35186 bytes
+2024/09/01-00:12:39.882 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/01-00:12:39.883 4 Delete type=2 #38
+2024/09/01-00:12:39.883 4 Delete type=2 #30
+2024/09/01-00:12:39.883 4 Delete type=2 #36
+2024/09/01-00:12:39.883 4 Delete type=2 #33
+2024/09/01-00:12:39.883 4 Delete type=2 #41

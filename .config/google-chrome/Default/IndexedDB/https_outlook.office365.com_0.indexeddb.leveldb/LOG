@@ -1,0 +1,49 @@
+2024/08/29-17:54:44.552 1008 Creating DB /home/yan/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb since it was missing.
+2024/08/29-17:54:44.553 1008 Reusing MANIFEST /home/yan/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/29-17:54:44.555 1008 Level-0 table #5: started
+2024/08/29-17:54:44.556 1008 Level-0 table #5: 576 bytes OK
+2024/08/29-17:54:44.556 1008 Delete type=0 #3
+2024/08/29-17:54:44.556 1008 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/29-17:54:45.531 100b Level-0 table #7: started
+2024/08/29-17:54:45.532 1015 Current memtable full; waiting...
+2024/08/29-17:54:45.532 100b Level-0 table #7: 630 bytes OK
+2024/08/29-17:54:45.533 100b Delete type=0 #4
+2024/08/29-17:54:45.533 1008 Level-0 table #9: started
+2024/08/29-17:54:45.536 1008 Level-0 table #9: 481 bytes OK
+2024/08/29-17:54:45.539 1008 Delete type=0 #6
+2024/08/29-17:54:45.540 1008 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 53 : 0
+2024/08/29-17:54:45.540 1008 Compacting 1@0 + 1@1 files
+2024/08/29-17:54:45.546 1008 Generated table #10@0: 14 keys, 597 bytes
+2024/08/29-17:54:45.547 1008 Compacted 1@0 + 1@1 files => 597 bytes
+2024/08/29-17:54:45.547 1008 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/29-17:54:45.547 1008 Delete type=2 #9
+2024/08/29-17:54:45.548 1008 Delete type=2 #7
+2024/08/29-17:54:45.548 1008 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/29-17:54:45.548 1008 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 53 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/29-17:54:56.437 100b Level-0 table #12: started
+2024/08/29-17:54:56.438 100b Level-0 table #12: 6982 bytes OK
+2024/08/29-17:54:56.438 1015 Current memtable full; waiting...
+2024/08/29-17:54:56.439 100b Delete type=0 #8
+2024/08/29-17:54:56.439 1008 Level-0 table #14: started
+2024/08/29-17:54:56.440 1008 Level-0 table #14: 541 bytes OK
+2024/08/29-17:54:56.440 1008 Delete type=0 #11
+2024/08/29-17:54:56.440 1008 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x02\x01\xa2\x01\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00l\x00o\x00k\x00i\x00.\x00d\x00e\x00l\x00v\x00e\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00v\x002\x00/\x00c\x00o\x00n\x00f\x00i\x00g\x00u\x00r\x00a\x00t\x00i\x00o\x00n\x00?\x00u\x00s\x00e\x00N\x00e\x00t\x00C\x00o\x00r\x00e\x00E\x00n\x00d\x00p\x00o\x00i\x00n\x00t\x00=\x00t\x00r\x00u\x00e\x00&\x00c\x00u\x00l\x00t\x00u\x00r\x00e\x00=\x00e\x00n\x00-\x00U\x00S\x00-\x009\x00a\x006\x00c\x00f\x009\x00b\x00e\x00-\x006\x009\x00c\x00d\x00-\x004\x009\x008\x006\x00-\x00a\x008\x001\x006\x00-\x003\x00d\x002\x00b\x00c\x002\x00b\x007\x005\x00b\x00d\x008\x00-\x003\x004\x008\x005\x00b\x009\x006\x003\x00-\x008\x002\x00b\x00a\x00-\x004\x00a\x006\x00f\x00-\x008\x001\x000\x00f\x00-\x00b\x005\x00c\x00c\x002\x002\x006\x00f\x00f\x008\x009\x008' @ 108 : 1
+2024/08/29-17:54:56.440 1008 Compacting 2@0 + 1@1 files
+2024/08/29-17:54:56.441 1008 Generated table #15@0: 54 keys, 6650 bytes
+2024/08/29-17:54:56.441 1008 Compacted 2@0 + 1@1 files => 6650 bytes
+2024/08/29-17:54:56.441 1008 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/29-17:54:56.441 1008 Delete type=2 #12
+2024/08/29-17:54:56.441 1008 Delete type=2 #14
+2024/08/29-17:54:56.442 1008 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/29-17:54:56.442 1008 Manual compaction at level-0 from '\x00\x05\x01\x02\x01\xa2\x01\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00l\x00o\x00k\x00i\x00.\x00d\x00e\x00l\x00v\x00e\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00v\x002\x00/\x00c\x00o\x00n\x00f\x00i\x00g\x00u\x00r\x00a\x00t\x00i\x00o\x00n\x00?\x00u\x00s\x00e\x00N\x00e\x00t\x00C\x00o\x00r\x00e\x00E\x00n\x00d\x00p\x00o\x00i\x00n\x00t\x00=\x00t\x00r\x00u\x00e\x00&\x00c\x00u\x00l\x00t\x00u\x00r\x00e\x00=\x00e\x00n\x00-\x00U\x00S\x00-\x009\x00a\x006\x00c\x00f\x009\x00b\x00e\x00-\x006\x009\x00c\x00d\x00-\x004\x009\x008\x006\x00-\x00a\x008\x001\x006\x00-\x003\x00d\x002\x00b\x00c\x002\x00b\x007\x005\x00b\x00d\x008\x00-\x003\x004\x008\x005\x00b\x009\x006\x003\x00-\x008\x002\x00b\x00a\x00-\x004\x00a\x006\x00f\x00-\x008\x001\x000\x00f\x00-\x00b\x005\x00c\x00c\x002\x002\x006\x00f\x00f\x008\x009\x008' @ 108 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/29-18:07:54.118 1008 Level-0 table #17: started
+2024/08/29-18:07:54.119 1008 Level-0 table #17: 1914 bytes OK
+2024/08/29-18:07:54.120 1008 Delete type=2 #10
+2024/08/29-18:07:54.120 1008 Delete type=0 #13
+2024/08/29-18:07:54.120 1008 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 220 : 1
+2024/08/29-18:07:54.120 1008 Compacting 1@0 + 1@1 files
+2024/08/29-18:07:54.121 1008 Generated table #18@0: 100 keys, 7642 bytes
+2024/08/29-18:07:54.121 1008 Compacted 1@0 + 1@1 files => 7642 bytes
+2024/08/29-18:07:54.122 1008 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/29-18:07:54.122 1008 Delete type=2 #17
+2024/08/29-18:07:54.122 1008 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 220 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

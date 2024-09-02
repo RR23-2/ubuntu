@@ -1,0 +1,6 @@
+2024/09/01-00:14:05.068 59e5 Reusing MANIFEST /home/yan/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2024/09/01-00:14:05.068 59e5 Recovering log #3
+2024/09/01-00:14:05.069 59e5 Reusing old log /home/yan/.config/google-chrome/Default/shared_proto_db/000003.log 
+2024/09/01-00:14:05.094 59e6 Level-0 table #5: started
+2024/09/01-00:14:05.096 59e6 Level-0 table #5: 132934 bytes OK
+2024/09/01-00:14:05.097 59e6 Delete type=0 #3

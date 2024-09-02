@@ -1,0 +1,7 @@
+2024/08/30-13:03:28.465 161a Creating DB /home/yan/.config/google-chrome/Default/WebStorage/27/IndexedDB/indexeddb.leveldb since it was missing.
+2024/08/30-13:03:28.467 161a Reusing MANIFEST /home/yan/.config/google-chrome/Default/WebStorage/27/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/08/30-13:03:28.471 161c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/30-13:03:33.234 161a Level-0 table #5: started
+2024/08/30-13:03:33.235 161a Level-0 table #5: 2505 bytes OK
+2024/08/30-13:03:33.235 161a Delete type=0 #3
+2024/08/30-13:03:33.235 161a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

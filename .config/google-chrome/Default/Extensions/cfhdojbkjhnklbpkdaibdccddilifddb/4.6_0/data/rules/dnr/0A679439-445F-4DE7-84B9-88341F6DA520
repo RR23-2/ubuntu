@@ -1,0 +1,8016 @@
+[
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-facebook-likebutton-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52583
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-facebook-share.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52584
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-facebook-widget.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52585
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-follow-icon-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52586
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-follow-icons.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52587
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-follow-us-icons.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52588
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-followicons.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52589
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-share-bar/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52590
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-share-buttons2.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52591
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-share-buttons3/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52592
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-share-sprite-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52593
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-share-sprite.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52594
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-share-tools-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52595
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sharebar-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52596
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sharebar.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52597
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sharebutton2.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52598
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sharebuttons_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52599
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sharetools-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52600
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sharewidget.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52601
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-slide-social-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52602
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-social-panel.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52603
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-social-panel/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52604
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-social-sidebar.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52605
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-social-sidebar/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52606
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-social-slider/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52607
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "-sprite-social-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52608
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".fbshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52609
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".sharebar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52610
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".sharing.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52611
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/a2a_share_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52612
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/accesspress-social-counter/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52613
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/add-mymsn2.gif",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52614
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/addthis_widget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52615
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/addtoany.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52616
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/advanced-social-widget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52617
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/article-social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52618
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ashare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52619
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ayoshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52620
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/badge_twitter.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52621
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/badge_twitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52622
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/banner-social.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52623
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/banner-social.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52624
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/banner/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52625
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bottom-facebook.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52626
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bottom-facebook.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52627
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bottom-twitter.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52628
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bottom-twitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52629
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/button_share.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52630
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cevhershare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52631
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/common/sns/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52632
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/common/sns_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52633
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/commons/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52634
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/commonsprites/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52635
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/cool-share/plugin.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52636
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/diggdigg-floating-bar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52637
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ej-socialslider/static/slideout.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52638
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-page-promoter-lightbox/includes/launch/launch.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52639
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-pagelike-widget/fb.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52640
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-popup-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52641
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-side.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52642
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-side.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52643
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-vertical.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52644
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook-vertical.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52645
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_badge.gif",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52646
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_badge.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52647
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_badge.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52648
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_footer.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52649
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_footer.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52650
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_like_button.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52651
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_sidebar.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52652
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_sidebar.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52653
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_sidebar.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52654
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_social.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52655
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebook_top_icon.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52656
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebookbadge.gif",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52657
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebookbadge.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52658
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebookbadge.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52659
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebookbtmicon.gif",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52660
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebookheader.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52661
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebooksharebutton.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52662
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebooksocialplugins.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52663
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebooksquare.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52664
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebooksquare.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52665
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebooktrafficdriver.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52666
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/facebookwidget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52667
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-like-pop.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52668
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-pixel.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52669
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-traffic-pop.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52670
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-traffic-pop.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52671
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-widget.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52672
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-widget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52673
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb-widget.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52674
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb_modeles.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52675
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb_side.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52676
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fb_side.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52677
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbfooter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52678
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbfooter.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52679
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbpop.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52680
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbshare.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52681
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52682
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbshare.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52683
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbshare2.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52684
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/fbshare2.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52685
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/floating-social-bar/js/fsb.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52686
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/floating-wpp.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52687
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/flw-twitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52688
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/follow-linkedin.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52689
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/follow-twitter-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52690
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/follow-twitter.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52691
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/follow-us.",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52692
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/follow-widget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52693
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/follow_instagram.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52694
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/followusontwitter.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52695
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/followusontwitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52696
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gadgets/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52697
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gallery/social/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52698
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gen-share-master/assets/js/frontend/application.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52699
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gfx/socials/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52700
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gigya-socialize-for-wordpress/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52701
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gm-button-social.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52702
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/graphics/share/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52703
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/handlers/sharrre.ashx?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52704
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/header_socials.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52705
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/highlight-and-share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52706
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/icon_share_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52707
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/icon_sns_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52708
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/images/social_black/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52709
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/itpsocialbuttons/images/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52710
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/itpsocialbuttons/style.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52711
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/javascripts/social.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52712
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jiathis_share.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52713
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jinda-facebook-lightbox/public/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52714
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jquery-pin-it-button-for-images/js/jpibfi.client.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52715
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jquery.shareaholic-publishers-sb.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52716
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jquery.sharecount.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52717
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jquery.stp.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52718
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/juiz-social-post-sharer-2.min.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52719
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/juiz-social-post-sharer-6.min.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52720
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/juiz-social-post-sharer.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52721
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/jumboshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52722
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/lg-share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52723
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/like_button.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52724
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/like_button.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52725
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/likebox.php",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52726
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/likefacebook.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52727
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/likefacebook.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52728
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/likegate.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52729
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/likesscript.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52730
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mod/socialbookmark/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52731
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mod_socialmedialinks/icons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52732
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mod_socialmedialinks/style.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52733
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mod_socialslider/tmpl/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52734
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/myshare/assets/js/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52735
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/needsharebutton.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52736
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/needsharebutton.min.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52737
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/o3-social-share-styles.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52738
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/oss_share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52739
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/overlayshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52740
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pandalocker.",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52741
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pin_it_button.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52742
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinit-button.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52743
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinit.html?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52744
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-footer-icon.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52745
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-footer-icon.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52746
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-footer-svg.ashx",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52747
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-footer.ashx",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52748
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-for-woocommerce-save-button.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52749
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-for-woocommerce-tracking.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52750
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-over.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52751
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest-over.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52752
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pinterest_tag.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52753
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pintrest-button.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52754
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/add-to-any-subscribe/subscribe_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52755
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/add-to-any/addtoany.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52756
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/anmiated-twitter-bird/js/tripleflap.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52757
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/bookmarkify/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52758
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/delicious-bookmark-button/delit.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52759
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/dpsocialshare/js/jquery.dpsocialshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52760
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/easy-facebook-likebox/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52761
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/easy-twitter-feeds/public/js/widget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52762
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/facebook-button-plugin/js/script.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52763
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/facebook-fanbox-popup/assets/js/spu.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52764
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/facebook-like-content-locker/js/pop.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52765
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/facebook-page-promoter-",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52766
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/facebookpopuppro/js/facebookpopup.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52767
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/getsocial/lib/getsocial.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52768
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/knxdt-bookmarks-wordpress-plugin/css/style.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52769
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/light-social/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52770
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/like-box-pro/includes/javascript/front_end_js.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52771
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/like-fb/js/popup.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52772
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/mashsharer/assets/js/mashsb.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52773
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/osd-social-media-sharing/includes/style.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52774
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52775
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/rtsocial/js/rtss-main.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52776
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/share-and-follow/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52777
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/share-social/icons/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52778
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/simple-social-sharing-widgets-icons/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52779
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/slick-social-share-buttons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52780
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/slide-in/js/wdsi.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52781
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/sme-facebook-likebox-sidebar/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52782
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/sociable-re/images/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52783
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/sociable/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52784
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/social-media-widget/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52785
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/social-profiles-widget/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52786
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/socialbox/assets/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52787
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/socialfans-counter/assets/js/socialfans-script.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52788
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/socialgrid/static/img/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52789
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/sociallocker-next-premium/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52790
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/stickysocialbar/js/sharefront.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52791
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/subscribe-connect-follow-widget/images/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52792
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/tweet-this/icons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52793
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/tweetmeme/button.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52794
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/ultimate-follow-me/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52795
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/ultimate-social-deux/public/assets/js/min/us.script-min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52796
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/viperbar/client/js/front.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52797
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/wordpress-social-ring/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52798
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/wp-plus-one/wp-plus-one.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52799
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/wp-social-toolbar-pro/js/corescripts.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52800
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/wp-tweet-button/tweetn.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52801
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/prisna-social-counter.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52802
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/qa-social-share.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52803
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/resources/twitter-",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "stylesheet",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52804
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/rrshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52805
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/s9-social-sharing-front.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52806
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/scrollsharemenu.html",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52807
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-bar-1.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52808
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-bar/build/index.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52809
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-bar/share-bar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52810
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-button?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52811
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-controller.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52812
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-controller.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52813
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-leadoff-public.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52814
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share-on-diaspora-css.php",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52815
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share.php?buttons=",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52816
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share/count?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52817
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share/footer/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52818
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share/frame/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52819
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share42.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52820
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_button?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52821
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_count.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52822
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_iframe.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52823
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_popup.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52824
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_sprite.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52825
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_toolbar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52826
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_view.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52827
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_wechat.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52828
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_wechat.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52829
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_weibo.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52830
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/share_weibo.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52831
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shareaholic.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52832
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharearrow.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52833
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharebar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52834
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharebar/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52835
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharebars/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52836
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharebtn_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52837
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharebutton?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52838
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharecount/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52839
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharecounter?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52840
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharecounts/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52841
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shared-social-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52842
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shared/btn_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52843
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shared/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52844
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharedaddy.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52845
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharedaddy/sharing.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52846
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharefacebook.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52847
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharefacebook.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52848
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharefb.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52849
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharefb.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52850
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharefb_icon.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52851
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shareicon-branding-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52852
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shareicons.",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52853
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shareit.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52854
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shareon.iife.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52855
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shareon.min.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52856
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharer.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52857
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharethis-buttons.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52858
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharethis.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52859
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharethisicons.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52860
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharetool.php?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52861
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharetools.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52862
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharett.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52863
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharetw.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52864
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharetw_icon.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52865
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharetwitter.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52866
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharetwitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52867
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shariff.complete.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52868
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shariff.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52869
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharing/sprites/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52870
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sharing_icons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52871
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/shrmain.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52872
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sidebar-facebook-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52873
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sidebar-follow.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52874
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sidebar-pinterest-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52875
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sidebar-twitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52876
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sidebar_facebook.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52877
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sidebar_twitter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52878
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/silicon-counters.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52879
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/simple-share-",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52880
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/simple-social-sharing/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52881
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/simpleshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52882
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sm-share-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52883
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sme-facebook-likebox-sidebar/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52884
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sns_naverband.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52885
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-bar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52886
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-footer.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52887
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-footer.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52888
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-proof-testimonials-slider/admin/js/slick-block-editor.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52889
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-sidebar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52890
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-twit.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52891
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-twit.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52892
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-url-generator.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52893
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-url-generator.minc.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52894
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social-widgets-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52895
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social/sprite-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52896
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social2s.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52897
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_balloon-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52898
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_bookmarking.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52899
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_bookmarking/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52900
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_bookmarks/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52901
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_footer.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52902
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_header.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52903
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_header.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52904
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_popup.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52905
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_widget.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52906
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialappsintegrator.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52907
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialbar-sso.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52908
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialbar.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52909
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialbar.php",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52910
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialbookmarkerbot_images/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52911
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialbookmarks.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52912
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialcount.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52913
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialcount.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52914
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialfooter.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52915
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialite.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52916
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialite.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52917
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialize/library.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52918
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialmediabuttons.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52919
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialmediabuttons/tracking.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52920
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialmediasprite.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52921
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialnetwork-buttons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52922
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialplugins/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52923
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialshareplugin.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52924
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialshareplugin.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52925
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialshares.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52926
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialsite/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52927
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialsmall/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52928
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialsprite.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52929
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialsprites.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52930
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialstat?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52931
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialtwitter1.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52932
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/socialwd/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52933
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sociofluid/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "image",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52934
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/squaresocial-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52935
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/stocktwits_share.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52936
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/synved-social/image/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52937
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/tabs/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52938
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/tarful-share-public.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52939
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/tools/newsideshare/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52940
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/tweet_footer.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52941
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twfooter.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52942
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitbadge.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52943
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter-follow-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52944
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter-footer-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52945
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter-v2.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52946
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter-v2.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52947
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter-widget.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52948
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter-widget.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52949
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_badge.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52950
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_follow.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52951
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_follow.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52952
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_footer.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52953
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_footer.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52954
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_header.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52955
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_header.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52956
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_square.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52957
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitter_square.svg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52958
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitterbadge.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52959
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitterfloat.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52960
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitterfollow.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52961
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitterfollow.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52962
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitterlib.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52963
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitteron.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52964
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twitteron.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52965
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/twittersquare.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52966
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/videojs-share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52967
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/viewboxtraffic_min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52968
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/visual/social/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52969
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/vk_button.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52970
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/vk_button.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52971
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/weiboshare.html",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52972
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/whatsapp-button.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52973
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/whatsapp_button.php",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52974
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/whatsapp_icon.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52975
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/whatsappblogger.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52976
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/whatsappshare.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52977
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/whatsappshare.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52978
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/widget/share?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52979
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/widget/share_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52980
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/widgets/sharing-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52981
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/widgets/socials/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52982
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/widgets/twitter/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52983
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wordpress-popup/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "ahchealthenews.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52984
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/advanced-facebook-content-locker/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52985
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-social-toolbar/js/scripts.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52986
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wpsms-public.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52987
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wpsms-public.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52988
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ya-share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52989
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_footer_twitter.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52990
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_share_bookmark.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52991
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_share_widget_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52992
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_small_share.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52993
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_social-bar/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52994
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_social_badge_",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "stylesheet",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52995
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_social_bookmark/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52996
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_social_bookmarks/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52997
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "_social_footer_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52998
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "/jquery.bpopup.",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "telechargerunevideo.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 52999
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/videolock/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53000
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||addnow.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53001
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||addthis.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53002
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||addthiscdn.com^",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "addthis.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53003
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||addtoany.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53004
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||assets.pinterest.com/js/pinit.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53005
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||assets.pinterest.com/pidget.html",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53006
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||b.hatena.ne.jp^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53007
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "image"
+      ],
+      "urlFilter": "||b.st-hatena.com/images/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "excludedInitiatorDomains": [
+        "b.hatena.ne.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53008
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||b.st-hatena.com/js/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "excludedInitiatorDomains": [
+        "b.hatena.ne.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53009
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||badge.facebook.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53010
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||badges.instagram.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53011
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bloglovin.com/widget/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53012
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bshare.cn^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53013
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||button-share.zalo.me^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53014
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||button.like.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53015
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||buttons.github.io/buttons.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53016
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||buttons.googlesyndication.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53017
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||connect.ok.ru^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53018
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||crowdynews.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53019
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dailymotion.com/badge/user/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53020
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||digg.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script",
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53021
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/activity.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53022
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/facepile.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53023
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/fan.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53024
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/follow.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53025
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/like.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53026
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/like_box.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53027
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/likebox/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53028
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/page.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53029
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/recommendations.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53030
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/send.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53031
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/share_button.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53032
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/subscribe.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53033
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/activity.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53034
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/fan.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53035
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/like.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53036
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/recommendations.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53037
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/like.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53038
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/page.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53039
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/share_button.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53040
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fark.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53041
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||feedgrabbr.com/widget/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53042
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||feedly.com/img/follows/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53043
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||figshare.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53044
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||filamentapp-assets.s3.amazonaws.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53045
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||filamentapp.s3.amazonaws.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53046
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fireworkapi.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53047
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fireworkapi1.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "excludedInitiatorDomains": [
+        "matsukiyococokara-online.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53048
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fireworktv.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53049
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||flipboard.com/web/buttons/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53050
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||followistic.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53051
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||friends2follow.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53052
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fwcdn2.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53053
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fwcdn3.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53054
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getbutton.io/widget-send-button/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53055
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getsocial.io/widget/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53056
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getsocial.io^*/gs_async.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53057
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||google.com/_/+1/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53058
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||google.com^*/fastbutton?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53059
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gotchosen.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53060
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gplusapi.appspot.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53061
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||graph.facebook.com/fql?q=select",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53062
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||handll.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53063
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hatena.ne.jp/entry/button/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53064
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||herokuapp.com/button.html?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53065
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hn-button.herokuapp.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53066
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||iconosquare.com/widget.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53067
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||insidesoci.al^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53068
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jit.su/frame",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53069
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jsoon.digitiminimi.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53070
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||karmacracy.com/widget",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53071
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||lessbuttons.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53072
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||likebtn.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53073
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||line-apps.com^*/thirdparty/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53074
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||line.me/js/line-button.js?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53075
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||linkedin.com/countserv/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53076
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||linkedin.com/img/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53077
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||linkedin.com/uas/js/userspace?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53078
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||linksalpha.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53079
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||loveclaw.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53080
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||markerly.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53081
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||massrelevance.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53082
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||meebo.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53083
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||meerkatapp.co/btn/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53084
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||messengerpeople.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53085
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||milotree.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53086
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||newsharecounts.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53087
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||opensharecount.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53088
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||patreon.com/becomepatronbutton.bundle.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53089
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pepper.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53090
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pinterest.com/images/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53091
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pinterest.com/js/pinit_main.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53092
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pinterest.com/v1/urls/count.json",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53093
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||platform.foursquare.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53094
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||platform.linkedin.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53095
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||platform.twitter.com/anywhere.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53096
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||platform.twitter.com/embed/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "image",
+        "object",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53097
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||platform.twitter.com/js/button.",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53098
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||po.st/share/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53099
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||po.st/static/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53100
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||reactandshare.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53101
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||reddit.com/api/info.json?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53102
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||reddit.com/button.js?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53103
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||reddit.com/static/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53104
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||revinate.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53105
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||scoop.it^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53106
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||share.itraffic.su^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53107
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||share.static.skyrock.net^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53108
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||shareaholic.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53109
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sharedcount.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53110
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sharethis.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53111
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sharexy.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53112
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sharpay.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53113
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||shpg.org^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53114
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||simplesharebuttons.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53115
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||softwebzone.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53116
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||spotify.com/follow/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53117
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||statigr.am^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53118
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||storeya.com/externalscript/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53119
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||t.pridat.eu^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53120
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||trendemon.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53121
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||twinesocial.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53122
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||twitter.com/js/timeline.",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53123
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||usocial.pro^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53124
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vk.com/share.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53125
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vk.com/widget_community.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53126
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vk.com/widget_community_messages.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53127
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vk.com/widget_like.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53128
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vkontakte.ru/js/api/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "excludedInitiatorDomains": [
+        "arudex.com",
+        "tapclap.com",
+        "ugo.ru",
+        "vk.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53129
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vkontakte.ru/share.php?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53130
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vkontakte.ru/widget_community.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53131
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vkontakte.ru/widget_like.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53132
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||w.uptolike.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53133
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||weibo.com/staticjs/weiboshare.html",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53134
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||widget.weibo.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53135
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||widget.whatshelp.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53136
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||widgets.getpocket.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53137
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||widgets.wp.com/likes/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53138
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||wykop.pl/dataprovider/diggerwidget/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53139
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||xing-share.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53140
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||xing.com/img/buttons/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53141
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||yandex.st/share/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53142
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||youtube.com/subscribe_embed?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53143
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||youtube.com/subscribe_widget",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53144
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||zextit.com/partners/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53145
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ipaddress.com/shariff/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53146
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||naturalnews.com/getviews2.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53147
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||people.com.cn/img/2020fenxiang/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53148
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||shbarcelona.com/img/socialnetwork/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53149
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||probook.bg/like?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53150
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pipeline.de/socialmedia-icons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53151
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||seitzeichen.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53152
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||social-bookmarking-tools.de^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53153
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||werkenntwen.de/images/buttons/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53154
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||lequipe.fr/_nuxt/share.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53155
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||produits-asiatiques.com/annuaire/templates/coolor/images/facebook-faces.gif",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53156
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||almasryalyoum.com/scripts/sharing.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53157
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||stjegypt.com/uploads/stjnew.jpg",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53158
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||share.baidu.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53159
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||fanclubbarcelona.nl/images/mediabuttons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53160
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||focus.it/images/embed/banner-canale-whats-up/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53161
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||napolimagazine.com/web/img/iconefooter/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53162
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||napolimagazine.com/web/img/iconetop/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53163
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||nursetimes.org/wp-content/uploads/2016/01/telegram-banner.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53164
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||imyfone.com/assets/js/media_share/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53165
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ministop.co.jp/site_common/js/sns_",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53166
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||plugins.mixi.jp/favorite.pl?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53167
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||taishurx.jp/js/web/sns_header.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53168
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||draugiem.lv/business/ext/fans/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53169
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||draugiem.lv/business/ext/follow/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53170
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||draugiem.lv/lapas/widgets/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53171
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||draugiem.lv/say/ext/like.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53172
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||draugiem.lv/say/ext/recommend.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53173
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||draugiem.lv^*/js/fans/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53174
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sekomums.lv^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53175
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||aventurasnahistoria.uol.com.br/static/socialmedia/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53176
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||defatoonline.com.br/whatsapp.html",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53177
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jcconcursos.com.br/static/socialmedia/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53178
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||trrsf.com/transversais/trr_bar/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53179
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dni.ru^*/sotial-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53180
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||russia.tv/js/modules/social-subscriber.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53181
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||spynews.ro/templates/default/img/face.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53182
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vestifinance.ru/js/share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 53183
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/angular-facebook.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53184
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/bwp-minify/min/?*,wp-content",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53185
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/share-this-image/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53186
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/socialauth-wp/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53187
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wordpress-social-login/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53188
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-minify/min/?*,wp-content",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53189
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-rocket/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53190
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||3obieg.pl/wp-content/themes/sowe/css/content/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53191
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "image"
+      ],
+      "urlFilter": "||adguard.com/public/adguard/blog/android/comparison/facebook_",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "adguard.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53192
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||ahaan.co.uk^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53193
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||answers.ros.org/m/default/media/images/socialsprite.png",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53194
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||app.conceptboard.com^*/socialicons.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53195
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||app.veggly.net/plugins/cordova-plugin-x-socialsharing/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53196
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||arcgis.com/apps/nearby/app/components/share/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53197
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||arhn.eu/wp-content/themes/socialize/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53198
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||assets.msn.com/bundles/*/social-bar-",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53199
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||authy.com/wp-content/themes/authy/assets/images/icons/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53200
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||brave.com/wp-content/uploads/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53201
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||cdn.flowplayer.com^*/share.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53202
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/instafeed.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53203
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/socialshare.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53204
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||commonsensemedia.org/ajax/review/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53205
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||d27rt3a60hh1lx.cloudfront.net/models/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "muse.place"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53206
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||digitrend.it/wonder-marketing/assets/wordpress/js/videojs-share.min.js?",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "vrsicilia.it"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53207
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||enumizmatyczny.pl/modules/hifacebookconnect/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53208
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/page.php?",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "cieplikpodrozuje.pl",
+        "makulscy.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53209
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||fc-zenit.ru/local/templates/new_html/css/nav-social-2/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53210
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||findicons.com/files/icons/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53211
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ],
+      "urlFilter": "||gen.jut.su/jcdn/minify?charset=*/videojs-share.",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "jut.su"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53212
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||iconfinder.com/data/icons/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53213
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||iconizer.net/files/*_social_",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53214
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||iconspedia.com/icon/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53215
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||inscience.news/svc/getscript.aspx",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53216
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||instagram.com/p/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53217
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||jsdelivr.net/npm/sharer.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53218
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||kinogoo.cc/engine/classes/min/index.php",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53219
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53220
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||login.kataweb.it^*/sprite-social.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53221
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||logo.wine/a/logo/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53222
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||meltyblood.typelumina.com/resources/img/common/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53223
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||moneyweb.co.za^*/social-shares.min.js?",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53224
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||nhk.or.jp/common/sns/nol_share.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53225
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||nuxt.com/_nuxt/sociallinks.",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53226
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||parlament.mt/scripts/easy-social-share.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53227
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||player.fm^*/social-icons/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53228
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||pngrepo.com/png/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53229
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||politumor.ru/engine/classes/min/index.php?f=*/share42.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53230
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||qds.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53231
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||radio24.ilsole24ore.com/plugins/cordova-plugin-x-socialsharing/www/socialsharing.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53232
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||reactandshare.com/plugin/rns.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "maanmittauslaitos.fi",
+        "verkkouutiset.fi"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53233
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||s7.addthis.com^*/addthis_widget.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "mediamatters.org",
+        "politico.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53234
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||sharethis.com/button/buttons.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "bristan.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53235
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||softicons.com/download/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53236
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||srf.ch/socialview-in/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53237
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||static.addtoany.com/menu/page.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "suttonquebec.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53238
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||static.parastorage.com/services/editor-elements/dist/facebookshare.",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53239
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||supremacy1914.com/fileadmin/templates/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53240
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||svgrepo.com/show/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53241
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||tf1.fr/public/*-share-",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53242
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||tgcom24.mediaset.it/assets/js/amd/socialcount.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53243
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||tgstat.ru/js/share2/share.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53244
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||thecity.m24.ru/css/ya-share.css",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53245
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||thecompany.pl/graf/icons/youtube.png",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53246
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||toneden.io/production/javascripts/social.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53247
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||tosdr.org/logo/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53248
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||tweet.mapping.jp/data/czml/tweets.json",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53249
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||vpobede.ru/assets/images/footer-social/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53250
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||wettercomassets.com/wcomv5/images/footer/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "wetter.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53251
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||yap.ru/html/static/share/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53252
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||yaplakal.com/html/static/",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53253
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||yastatic.net/share2/share.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 53254
+  }
+]

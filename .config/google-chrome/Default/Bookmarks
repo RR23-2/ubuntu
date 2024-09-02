@@ -1,0 +1,156 @@
+{
+   "checksum": "bddec0bc459f9fc50d50a240dff36bb2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319986109552192",
+            "date_last_used": "13320070743540001",
+            "guid": "b57c307b-e8da-40a0-9ced-6b24b812957c",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Academic",
+            "type": "url",
+            "url": "https://academic-slc.apps.binus.ac.id/"
+         }, {
+            "date_added": "13348935922754623",
+            "date_last_used": "0",
+            "guid": "7f30a44f-5895-4193-beb7-59364b77cd31",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Messier - Laboratory Information System",
+            "type": "url",
+            "url": "https://socs1.binus.ac.id/messier/Login.aspx"
+         }, {
+            "date_added": "13350296790924361",
+            "date_last_used": "13351228345864806",
+            "guid": "1f13bfd4-47ae-4d5a-97ac-51a249fed183",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Resource Management LCAS - For ALL - All Documents",
+            "type": "url",
+            "url": "https://binusianorg.sharepoint.com/sites/ResourceManagementLCAS2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FResourceManagementLCAS2%2FShared%20Documents%2FGeneral%2FShared%2F2023%2D2024%2F20%20Even%20Semester%2FFor%20ALL&p=true&ga=1"
+         }, {
+            "date_added": "13363268350798354",
+            "date_last_used": "0",
+            "guid": "caf978b1-6183-4d54-b4ea-2cac329d40d4",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Research Methodology in Information System - Kelompok 4 - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/12_QLfNOFIhTbKVPBASx-Sb7VrUfnCy-3LGNuO0-otfM/edit"
+         }, {
+            "date_added": "13363268355739167",
+            "date_last_used": "0",
+            "guid": "5cc94e64-6c20-41e7-af72-6f55d261df69",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Impact of Gamification on Students’ Engagement and Motivation in Education - Online LaTeX Editor Overleaf",
+            "type": "url",
+            "url": "https://www.overleaf.com/project/662893355ca241fe4ec35a4b"
+         }, {
+            "children": [ {
+               "date_added": "13363949026201342",
+               "date_last_used": "0",
+               "guid": "125892c9-a452-42eb-ac5c-1f65a9229205",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "2. 125960460.pdf",
+               "type": "url",
+               "url": "file:///D:/Binus/Semester%204/5.RMIS/!Individual%20Research%20Paper/1.%20References/2.%20125960460.pdf"
+            }, {
+               "date_added": "13363949054555187",
+               "date_last_used": "0",
+               "guid": "4c8ca506-c33d-4efe-8e34-a90a38f65042",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "4. f1bbc752-c05b-4220-95de-3148114ac5d7_73545_-_anushia_chelvarayan.pdf",
+               "type": "url",
+               "url": "file:///D:/Binus/Semester%204/5.RMIS/!Individual%20Research%20Paper/1.%20References/4.%20f1bbc752-c05b-4220-95de-3148114ac5d7_73545_-_anushia_chelvarayan.pdf"
+            }, {
+               "date_added": "13363949057884122",
+               "date_last_used": "0",
+               "guid": "8a438fe4-294f-4b32-a826-2e8de09dc275",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "5. IGIpublishedpaperChapter-15-The-Adoption-of-E-Wallets_-Current-Trends-and-Future-Outlookp242-262.pdf",
+               "type": "url",
+               "url": "file:///D:/Binus/Semester%204/5.RMIS/!Individual%20Research%20Paper/1.%20References/5.%20IGIpublishedpaperChapter-15-The-Adoption-of-E-Wallets_-Current-Trends-and-Future-Outlookp242-262.pdf"
+            }, {
+               "date_added": "13363949059861439",
+               "date_last_used": "0",
+               "guid": "51fb959f-73b5-4c70-a5fa-6309c6f9c175",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "An Empirical Investigation of the Continued Usage Intention of Digital Wallets: The Moderating Role of Perceived Technological Innovativeness",
+               "type": "url",
+               "url": "file:///D:/Binus/Semester%204/5.RMIS/!Individual%20Research%20Paper/1.%20References/6.%20s43093-022-00158-0.pdf"
+            }, {
+               "date_added": "13363949067649740",
+               "date_last_used": "0",
+               "guid": "32c209ff-4d07-44b2-8b24-d1cf4c4478aa",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "IEEE Conference Template - Online LaTeX Editor Overleaf",
+               "type": "url",
+               "url": "https://www.overleaf.com/project/667ce588439e74e5c56f2602"
+            } ],
+            "date_added": "13363949051871264",
+            "date_last_used": "0",
+            "date_modified": "13363949067649740",
+            "guid": "b802de3f-dc4a-4b37-a622-1469513739b4",
+            "id": "10",
+            "name": "RMIS",
+            "type": "folder"
+         } ],
+         "date_added": "13369397320885771",
+         "date_last_used": "0",
+         "date_modified": "13363268355739167",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13369397320885774",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13369397320885781",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpIFCvEECIiBAhLqBCAAkgHkBAqaBAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJaMQPHM8gBgARaMQPHM8gBgAiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlCGusbzyAGABADGXvphQIMeILGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpaNYQHM8gBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkACDYXzyAGABEACDYXzyAGACmN3Q8czyAGADCAkNi58ZmIAxIAKhhPSll5THNFVDlyZmthM0hsRkdnOGJ3PT1IAxLsAQgOEucBChxPeDNiNkpFZWZlQUZBN2ZFNzk0OU9tUTBLNG89EmZaOkFEcXRBWnhUeEhMdmJaVUloaFhkaVQ3Y3UyOGpNbHZlck1hWjlNRkQ4eDBoUGlYQXN2SmNzRmptczFaNzhVU1FZV2NSZGFpbXJENmwyanlrRlJ6bWJ3M2dyeWNNc3BncExBPT0YACAAKAAwvLXYoKn7hgM4la7lxYUyQJWu5cWFMkoccGNxaFJMYmI5WkFQd1pOMUsvM0VSbTNFNDlJPVofIh3vUDU3emVXanBYT0ZKN29DVUN0blVVYjRaMkdJPWUAAAAAEuwBCA0S5wEKHDU2d1p3SmY5T3Y5aEhIRXZ6dzdsb2ZHMVJ6OD0SZlo6QURxdEFaeFR4SEx2YlpVSWhoWGRpVDdjdTI4ait2ZzZISkJ5TXd2aEZ0MjhWV3d5WjdUNmRnRHhySmRWaU05dkdwSDJ1SFZBU1Z5ak9aZFEydGpkNWxFZStqNFQzeFZOSnc9PRgAIAAoADC8tdigqfuGAzjcnuXFhTJA3J7lxYUyShwrK0pwcGl6T09MdFNNRGVIYWVIOTJwTEFUczg9Wh8iHd5Fb0FpdTQ1dHR1RXNFLzVSVFJuR2RrS3dXNWc9ZQAAAAAS7AEIDxLnAQoccGJyOTZCVzJrbUlXVXpPUlRrYk5sY3FGTGFVPRJmWjpBRHF0QVp4VHhITHZiWlVJaGhYZGlUN2N1MjhqVEk2MVNNR2Zqb2lwWWhxZlRVMjR3L0RkVkMzY2J1cFRSM25RQXFVanptMmprZ2hhTVNMd3EvOGpKbUlJMzQ2SHJMdmRRdz09GAAgACgAMMXbqaWp+4YDOIHr5cWFMkCB6+XFhTJKHEFDOG9XVXhRaVVqRlJKZFJIdnIwSUpoYjc5VT1aHyId9zZDSjNoVFVjSEx4aTI0VElPOHAvZUtNOTJkaz1lRD4J8hLsAQgKEucBChxvemxSaEIzQkhOVFJiU0x1T0d1QlQzNk8rN009EmZaOkFEcXRBWnhUeEhMdmJaVUloaFhkaVQ3Y3UyOGpKcTVTek9POFNwSUkzUGhOSzNjOVVpcURYTG5VSmc1VHVxK0tOcXRJWDk3VVRuRzJoenoxc1Y5Y2szQTZzSGhWVk5XUEJnPT0YACAAKAAwmODnnan7hgM43+/kxYUyQN/v5MWFMkocQkw1SXVZQ0RHTHpaZ3Y1ckRubTVGT3ZkL1lVPVofIh39UFByRmhudGYyYlpsWVprbjFjR1BtZ2RZalBVPWUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad05VQkVMUFdKRjRLcDBMN0doU3l3eDdxV2dyaDQ0Um53WDlycXA2Um5aUSs3WEU5VkdTNlBPZ0ZzaFlpMnBwSDBVMmRWLytZZVJVRW5CbExRUHBpMStHWmwwR1E9PRgAIAAoADDCtKzf8ZmIAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAkS5wEKHFJYcEtCOEgxdkZEOFg0ODFGN2t3SEQ1NDBlOD0SZlo6QURxdEFaeFR4SEx2YlpVSWhoWGRpVDdjdTI4alltbFRwdGcxTTNhZXZVUjUwTVNBS1dDbFY0V3JBajl1aUZZMVZWaWU2OUszaERMTFdOK2RjcU1JQ005cVFPMnQ2N2Z2V3c9PRgAIAAoADDdg6q4weeGAzibvZqBgzJAm72agYMyShxzZzFDWUMrSEx5M0JIbTI0VnhNclhEdzh0TjQ9Wh8iHfdKSnh5eEJPNkJ6a1BVdFZNSE81bmtPQ3BvdW89ZUQ+CfIS7AEICBLnAQocUGxvOUlTRzJBMFVhbHhjeTQvVFFodkZYTGtzPRJmWjpBRHF0QVp4VHhITHZiWlVJaGhYZGlUN2N1MjhqcjdWcTZvN3c0WGRENEs3S1phckZiQ0k1S0JiZnluKzRUUFdqWWxNV2NYcVYxcUJBMXlreTNDZ3dVMTdFdEtCZ0lwQ09XZz09GAAgACgAMMSm/LXB54YDOM6WmoGDMkDOlpqBgzJKHHlYSmVLQ2lzdjF1N09yY1RWdW84Rm8vOEcvQT1aHyId7kUvb3NlaUN2dlB3UEVEc1FDSWZCOUFpeU5SZz1lOca2sBLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnpYNkVyRlI5UFBYY3FobnFFYnNKYnRiUGRMbE5CSWdoMG0yMWc4YmM2S1g2bFZXMG9NN1pyaXlvV1k1VmRUeUpnMmhoUXc2djhzdXJqZ1VKUTdnQVlJS1VBaHB3PT0YACAAKAAwwrSs3/GZiAM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQgMEucBChxkYTlDWHU3T3c4YzkvbzdHdFYrNkRhTmhYQ2M9EmZaOkFEcXRBWnhUeEhMdmJaVUloaFhkaVQ3Y3UyOGo3M0VYc01LaVpwYVdDUU0ybVlzYndtM08wb2JFNjVmL1B1c1Q5YTlnSmczd0J6eFpDYm9WSGJxaFRra2FqR2ZTS3VaYzdBPT0YACAAKAAwzNeMn6n7hgM424TlxYUyQNuE5cWFMkocTnQ3bVlhWThEeEk1K3M0aXZNVG9MQlZZUmRnPVofIh28NVhlSEtHaVVSUGNpNlNSL1ZDa0VHZkZGZGpBPWUAAAAAEuwBCAYS5wEKHDYraWVxUGdRTFpDajl3c3RzYlhKclFkaVBrUT0SZlo6QURxdEFaeFR4SEx2YlpVSWhoWGRpVDdjdTI4ajdiV0VPZzY5cWxFbHhTL09LbmovS2R3NG1TQnl0NEUwY0JielN3VzhlaFRUaHhaMUZFY1pDaFFYY1YvWE8wNDJaWlM0clE9PRgAIAAoADCnv6+CscaDAzjCmPzOzTFAwpj8zs0xShxMTWRCbjUwS0o5eGI4VTlaWWZVYngrVlRtVFk9Wh8iHbhaV3RQeTVOckI0YVhnbkFmdjhrT2pXemV4T0E9ZYzV/EYS6wEICxLmAQocajdVVXRkUGRLZXEwMXVZVkxtd3c2Zzlyd2hNPRJmWjpBRHF0QVp4VHhITHZiWlVJaGhYZGlUN2N1MjhqZTJGNXVJb1hMeW1zZnpxd3g5cGlvL2ZZbjhWdlBBZmJUMldTeWRXVUR1YnFPYXZTV29GNkxhTzJzanBGWE1pRDRGZnJKZz09GAAgACgAMJjg552p+4YDOJmn48WFMkCZp+PFhTJKHHVyc1R2TWNreDVySFg5eVZLL2ZMRExmUUREYz1aHiIceVl0N2pEL3NSazVscEtxdVlQMjNuSmEzVVlNPWUAAAAAEuwBCAcS5wEKHDhZaDJUUlVpQnJiWVZxeEJXeWtoTkZEWUVjaz0SZlo6QURxdEFaeFR4SEx2YlpVSWhoWGRpVDdjdTI4alp5Q1JnRVRHNDIweEZrWmJuSGZ6NkJsYWMxS0xaNWx4WUltMmVRZTF6aHdUQkpKWThTVWI5WVMvcVdvWkl5UEU1Z01JU2c9PRgAIAAoADCzvMT/jImEAziN//DX0jFAjf/w19IxShxZL3gwcmgrV0RKMmxkQjdaeDUrQ21VbkFTU2c9Wh8iHdx2MjRvc3IvQWVUdWlaZGI1Uk5nRkc4SVUvMVE9ZaH4QLAS6wEIBRLmAQocMThReU92ODd4T3JtZm1VdGgxZXBsM0ZYSG04PRJmWjpBRHF0QVp4VHhITHZiWlVJaGhYZGlUN2N1MjhqTHAzYm1UaEx1eSs0UVhIaGZBOHlqZUhkRXBUcFZYSDNMbFRZSmVyanRXQmdIMDUrdTVzajd4VDlFVkQwVHdMWSsza1h4QT09GAAgACgAMPHGk9G1mIMDOPDoz+LhMEDw6M/i4TBKHDVvbWdNN3ByYW1KQUwxcWxramx5M2VTamRKaz1aHiIccUhuRTFkb0xZQkNQUDZjK0dPQTFFNUF1cktzPWWM1fxGEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaekd3MTgxUk05aGhhbWViSTFjODM0OTQvSHBHNmZhdnBMVEVkdnpteFArTm04UU1nZkVXbG9pVDRlRTI0SlpoRWpzL3lPeRgAIAAoADDCtKzf8ZmIAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

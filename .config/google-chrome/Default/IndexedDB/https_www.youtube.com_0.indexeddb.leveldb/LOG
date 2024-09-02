@@ -1,0 +1,6 @@
+2024/09/01-00:16:58.191 59e5 Reusing MANIFEST /home/yan/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/01-00:16:58.191 59e5 Recovering log #11
+2024/09/01-00:16:58.195 59e5 Reusing old log /home/yan/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2024/09/01-00:24:02.432 59e5 Level-0 table #16: started
+2024/09/01-00:24:02.452 59e5 Level-0 table #16: 1345255 bytes OK
+2024/09/01-00:24:02.453 59e5 Delete type=0 #11

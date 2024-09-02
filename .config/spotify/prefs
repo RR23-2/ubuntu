@@ -1,0 +1,15 @@
+autologin.username="ryan._.r"
+autologin.saved_credentials="{\"ryan._.r\":[\"ryan._.r\",\"j2Yw9IjvkC0Lu299pqfWeWCl5nh7rQY/BGQhzUZZ2aEqwaHATsDfOh7fFOibGRzxlxGNP3Gmvieerg4Eu9maoYXKqsJGUdTFGtSMeMJIyEbK3SPOM9xFRYm4N4GnZOh+oLQgVQfmCDYwuKBZxUgWOwSU9gWVaChml0s08xgzMX6GUKl1K5iXDbvwjfI0qSK00NwW2UUwp5R+TVXsTmtncQiOzNvHxFgLfhKLKAt9KJuFVBrPOwBspRRilkgCC/0eFCDID1f5FcbeWS5Mntnr2QMvRm9y9uM6o69UEPVhRGY=\"]}"
+autologin.blob="j2Yw9IjvkC0Lu299pqfWeWCl5nh7rQY/BGQhzUZZ2aEqwaHATsDfOh7fFOibGRzxlxGNP3Gmvieerg4Eu9maoYXKqsJGUdTFGtSMeMJIyEbK3SPOM9xFRYm4N4GnZOh+oLQgVQfmCDYwuKBZxUgWOwSU9gWVaChml0s08xgzMX6GUKl1K5iXDbvwjfI0qSK00NwW2UUwp5R+TVXsTmtncQiOzNvHxFgLfhKLKAt9KJuFVBrPOwBspRRilkgCC/0eFCDID1f5FcbeWS5Mntnr2QMvRm9y9uM6o69UEPVhRGY="
+es.send-on-startup=true
+core.clock_delta=-1
+autologin.canonical_username="ryan._.r"
+app.window.position.x=240
+app.enable-chrome-runtime=true
+app.window.position.saved=true
+app.window.position.height=974
+app.window.position.y=106
+storage.last-location="/home/yan/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=1440
+app.last-launched-version="1.2.42.290.g242057a2"

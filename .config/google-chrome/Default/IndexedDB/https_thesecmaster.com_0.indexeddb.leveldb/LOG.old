@@ -1,0 +1,6 @@
+2024/08/29-16:35:08.533 123d1 Creating DB /home/yan/.config/google-chrome/Default/IndexedDB/https_thesecmaster.com_0.indexeddb.leveldb since it was missing.
+2024/08/29-16:35:08.536 123d1 Reusing MANIFEST /home/yan/.config/google-chrome/Default/IndexedDB/https_thesecmaster.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/29-16:35:08.548 123d3 Level-0 table #5: started
+2024/08/29-16:35:08.551 123d3 Level-0 table #5: 671 bytes OK
+2024/08/29-16:35:08.558 123d3 Delete type=0 #3
+2024/08/29-16:35:08.558 123d1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,21 @@
+2024/08/29-16:58:38.724 d5f Creating DB /home/yan/.config/google-chrome/Default/IndexedDB/https_binusianorg-my.sharepoint.com_0.indexeddb.leveldb since it was missing.
+2024/08/29-16:58:38.726 d5f Reusing MANIFEST /home/yan/.config/google-chrome/Default/IndexedDB/https_binusianorg-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/29-16:58:40.397 d60 Level-0 table #5: started
+2024/08/29-16:58:40.407 d60 Level-0 table #5: 1419384 bytes OK
+2024/08/29-16:58:40.408 d60 Delete type=0 #3
+2024/08/29-16:58:45.866 d62 Level-0 table #7: started
+2024/08/29-16:58:45.874 d62 Level-0 table #7: 1281158 bytes OK
+2024/08/29-16:58:45.875 d62 Delete type=0 #4
+2024/08/29-16:58:45.979 d6c Compacting 1@1 + 1@2 files
+2024/08/29-16:58:46.000 d6c Generated table #8@1: 3680 keys, 1996467 bytes
+2024/08/29-16:58:46.000 d6c Compacted 1@1 + 1@2 files => 1996467 bytes
+2024/08/29-16:58:46.001 d6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/29-16:59:01.755 d62 Level-0 table #10: started
+2024/08/29-16:59:01.764 d62 Level-0 table #10: 1413125 bytes OK
+2024/08/29-16:59:01.765 d62 Delete type=0 #6
+2024/08/29-16:59:01.765 d62 Delete type=2 #5
+2024/08/29-16:59:01.765 d62 Delete type=2 #7
+2024/08/29-16:59:02.187 d60 Compacting 1@1 + 1@2 files
+2024/08/29-16:59:02.228 d60 Generated table #11@1: 4178 keys, 2139794 bytes
+2024/08/29-16:59:02.228 d60 Compacted 1@1 + 1@2 files => 2139794 bytes
+2024/08/29-16:59:02.229 d60 compacted to: files[ 0 0 1 0 0 0 0 ]
